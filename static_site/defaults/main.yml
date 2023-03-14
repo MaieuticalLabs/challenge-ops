@@ -1,0 +1,3 @@
+---
+nginx_http_headers:
+  SAMPLENAME: samplevalue

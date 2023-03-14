@@ -1,0 +1,7 @@
+---
+- name: Converge
+  hosts: all
+  tasks:
+    - name: "Include ml.static_site"
+      include_role:
+        name: "ml.static_site"
